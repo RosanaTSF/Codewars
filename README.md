@@ -14,7 +14,7 @@ Here, I practice problem-solving, programming logic, algorithms, and different w
 - 🧠 **Programming logic** — Thinking step by step.
 - ⚡ **Algorithms** — Making code fast and efficient.
 - 🔮 **Data structures** — Organizing data in useful ways.
-- 💛 **JavaScript / 💙 TypeScript** — Building and understanding code for the web.
+- 💛 **JavaScript / TypeScript** — Building and understanding code for the web.
 - 🐍 **Python** — Practicing simple and powerful scripting.
 - 🧼 **Clean code** — Writing readable and tidy logic.
 - 🌟 **Different approaches** — Solving the same problem in new ways.
